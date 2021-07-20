@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MEET_APP/static/css/main.b3afb65c.chunk.css",
+    "main.js": "/MEET_APP/static/js/main.af002b15.chunk.js",
+    "main.js.map": "/MEET_APP/static/js/main.af002b15.chunk.js.map",
+    "runtime-main.js": "/MEET_APP/static/js/runtime-main.ca65893a.js",
+    "runtime-main.js.map": "/MEET_APP/static/js/runtime-main.ca65893a.js.map",
+    "static/js/2.22062e39.chunk.js": "/MEET_APP/static/js/2.22062e39.chunk.js",
+    "static/js/2.22062e39.chunk.js.map": "/MEET_APP/static/js/2.22062e39.chunk.js.map",
+    "static/js/3.3bfd7ef6.chunk.js": "/MEET_APP/static/js/3.3bfd7ef6.chunk.js",
+    "static/js/3.3bfd7ef6.chunk.js.map": "/MEET_APP/static/js/3.3bfd7ef6.chunk.js.map",
+    "index.html": "/MEET_APP/index.html",
+    "service-worker.js": "/MEET_APP/service-worker.js",
+    "service-worker.js.map": "/MEET_APP/service-worker.js.map",
+    "static/css/main.b3afb65c.chunk.css.map": "/MEET_APP/static/css/main.b3afb65c.chunk.css.map",
+    "static/js/2.22062e39.chunk.js.LICENSE.txt": "/MEET_APP/static/js/2.22062e39.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca65893a.js",
+    "static/js/2.22062e39.chunk.js",
+    "static/css/main.b3afb65c.chunk.css",
+    "static/js/main.af002b15.chunk.js"
+  ]
+}
